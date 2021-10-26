@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IntegrationTests\MathExt.csproj" />
     <ProjectReference Include="..\MathExt\MathExt.csproj" />
   </ItemGroup>
 
