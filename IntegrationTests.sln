@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExt", "MathExt\MathExt.csproj", "{AC5E8434-E175-4F25-8E5C-80E55E2FF2E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsMathExt", "Tests\TestsMathExt.csproj", "{C8B6425E-946F-4378-9901-2906ABC930E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsMathExt", "TestsMathExt\TestsMathExt.csproj", "{C8B6425E-946F-4378-9901-2906ABC930E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
