@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build IntegrationTests/ --no-restore
+      run: dotnet build MathExt/ --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
