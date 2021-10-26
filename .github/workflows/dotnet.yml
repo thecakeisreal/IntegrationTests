@@ -22,4 +22,4 @@ jobs:
     - name: Build
       run: dotnet build MathExt/ --no-restore
     - name: Test
-      run: dotnet test MathExtTests/ --no-build --verbosity normal
+      run: dotnet test TestsMathExt/ --no-build --verbosity normal
