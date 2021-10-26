@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MathExt;
 
 namespace Tests
 {
@@ -8,6 +9,7 @@ namespace Tests
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual(3, MathExt.MathExt.PGCD(3, 15));
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace IntegrationTests
+﻿namespace MathExt
 {
     /// <summary>
     /// Définit quelques algorithmes mathématiques simples

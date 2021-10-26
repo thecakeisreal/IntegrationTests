@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IntegrationTests
+namespace MathExt
 {
     class Program
     {
